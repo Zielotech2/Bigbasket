@@ -4,6 +4,6 @@ Class product
 	PRICE=25000
 	public static void main()
 	{
-	 System.out.prontln("Hello World");
+	 System.out.prontln("Hello World .bye");
 	}
 
